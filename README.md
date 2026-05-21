@@ -1,6 +1,7 @@
 # Goro Survivor
 
 吾郎さんの `pets` スプライトを使った見下ろし型ローグライク・ゾンビサバイバーです。
+A famous man Goro's game.
 
 ## 遊び方
 
