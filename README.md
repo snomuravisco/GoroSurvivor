@@ -6,7 +6,7 @@ A famous man Goro's game.
 ## 遊び方
 
 - `index.html` をブラウザで開く
-- またはこのフォルダで `node serve.mjs` を実行し、表示された URL を開く
+
 
 ## 操作
 
